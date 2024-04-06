@@ -1,0 +1,72 @@
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+.Instagram-Card {
+    background-color: white;
+    width: 300px;
+    border: 1px;
+    border-style: solid;
+    border-color: aliceblue;
+    overflow: hidden;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.Card-Header {
+    background-color: white;
+    padding: 0;
+    display: flex;
+    margin-right: 0;
+}
+.User-Avatar {
+    margin-right: 7px;
+    margin-left: 10px;
+    width: 15px;
+    height: 15px;
+    display: flex;
+    justify-content: left;
+    flex-direction: row;
+}
+.HTML {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.HTML-V {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    transform:translateX(-20%) translateY(-50%);
+}
+
+.User-Name{
+
+}
+.Name{
+    width: 10px;
+    height: 10px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    left: 200px;
+    transform: translateY(35%) translateX(-436%);  
+}
+.Ellipsis-Vertical {
+    margin-left: 210px
+}
+.Post-Img {
+    margin-right: 0;
+}
+.Imagen-Lago {
+    width: 299px;
+    height: 299px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+.Iconos {
+    flex-direction: row;
+}
+.Mark {
+    flex-direction: row;
+    margin-left: 227px;
+}
